@@ -71,7 +71,7 @@ class AddressSlider extends Component {
                     <h5 className="dashboard-title">endereço de entrega</h5>
                     <SelectedCardAddress />
                     <h5 className="dashboard-title">Meus endereços</h5>
-                    {
+                    {/* {
                         addresses
                         ? (<span>{addresses.length} endereços cadastrados</span>)
                         : ("")
@@ -102,7 +102,7 @@ class AddressSlider extends Component {
                         : (
                             ""
                         )
-                    }
+                    } */}
                     </div>
                     </div>
             </div>
